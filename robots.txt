@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pigpigdaddy.github.io/sitemap.xml 
